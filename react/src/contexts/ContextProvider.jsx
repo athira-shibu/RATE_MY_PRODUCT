@@ -11,7 +11,7 @@ const StateContext = createContext({
 const tmpSurveys = [
     {
         "id": 1,
-        "image_url": "https://example.com/survey-image.jpg",
+        "image_url": "https://via.placeholder.com/150",
         "title": "Customer Feedback Survey",
         "slug": "customer-feedback-survey",
         "status": "active",
@@ -49,7 +49,7 @@ const tmpSurveys = [
     },
     {
     "id": 2,
-    "image_url": "https://example.com/survey-image.jpg",
+    "image_url": "https://via.placeholder.com/150",
     "title": "Customer Feedback Survey",
     "slug": "customer-feedback-survey",
     "status": "active",
@@ -87,7 +87,7 @@ const tmpSurveys = [
     },
     {
     "id": 3,
-    "image_url": "https://example.com/survey-image.jpg",
+    "image_url": "https://via.placeholder.com/150",
     "title": "Customer Feedback Survey",
     "slug": "customer-feedback-survey",
     "status": "active",
